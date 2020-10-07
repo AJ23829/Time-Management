@@ -1,7 +1,7 @@
 # Time-Management
 App for time management with active time tracking and scheduling!
 ## Installation
-Download all the python files in one folder wherever you would like. main.py is the main script to run.
+Download all the python files in one folder wherever you would like. main.py is the main script to run. Make sure to install all requirements with "pip install -r requirements.txt".
 ## Usage
 Run the file whenever you finish an activity to log it.
 ### Tracking
