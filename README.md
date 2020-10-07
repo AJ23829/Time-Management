@@ -5,6 +5,7 @@ Download all the python files and requirements.txt in one folder wherever you wo
 ```
 pip install -r requirements.txt
 ```
+Or download the executable file at: https://drive.google.com/file/d/1DojRxpmgj0Sts7YKlA76373-aXo8z9Ab/view?usp=sharing
 ## Usage
 Run the file whenever you finish an activity to log it.
 ### Tracking
