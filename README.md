@@ -1,8 +1,7 @@
 # Time-Management
 App for time management with active time tracking and scheduling!
 ## Installation
-For running, just download the "Time Management.exe" file, and running that will work.
-The python code requires all .py files, so download all of them. main.py is the main script.
+Download all the python files in one folder wherever you would like. main.py is the main script.
 ## Usage
 Run the file whenever you finish an activity to log it.
 ### Tracking
