@@ -193,8 +193,8 @@ class tracking(bare_table):
     def end_edit_mode(self, button, warning):
         #Get all text from the entries
         entries_text = [[
-            ("0" if len(self.value_entries[col][row].get().strip()) == 4
-            else "") + self.value_entries[col][row].get().strip()  
+            ("0" if len(self.value_entries[col][row].get().strip()) == 4 and
+            col in (2,3) else "") + self.value_entries[col][row].get().strip()  
                 for col in range(len(self.value_entries)) 
                 if 0 < col < self.num_cols] + [
                     self.df['Time Spent (min)'][row], self.df['ID'][row]
